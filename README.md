@@ -1,6 +1,6 @@
 # Human Identification on Dental Biometrics using Instance Segmentation and SURF
 
-![Dental Biometrics](https://drive.google.com/file/d/1-5yElq4RVJ9ujgi4nAktaJ6Is3ExXOc5/view?usp=drive_link)
+![Dental Biometrics](https://github.com/Rohith-pamidimarri/Human_Identification_using_InstanceSegmentation/blob/main/Detectron%202/Test%20Inference/test1_result.png)
 
 ## Overview
 🔍 This project focuses on utilizing instance segmentation techniques along with Speeded-Up Robust Features (SURF) for human identification based on dental biometrics. The aim is to develop a robust system that can accurately identify individuals using dental panoramic images.
