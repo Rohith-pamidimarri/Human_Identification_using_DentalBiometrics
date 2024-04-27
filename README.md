@@ -1,5 +1,7 @@
 # Human Identification on Dental Biometrics using Instance Segmentation and SURF
 
+![Dental Biometrics](https://drive.google.com/file/d/1-5yElq4RVJ9ujgi4nAktaJ6Is3ExXOc5/view?usp=drive_link)
+
 ## Overview
 🔍 This project focuses on utilizing instance segmentation techniques along with Speeded-Up Robust Features (SURF) for human identification based on dental biometrics. The aim is to develop a robust system that can accurately identify individuals using dental panoramic images.
 
@@ -32,10 +34,10 @@
 🔮 Future work includes further fine-tuning of the instance segmentation models to improve accuracy and efficiency. Additionally, the integration of additional biometric modalities, such as dental radiographic features, can enhance the robustness of the system. Real-world deployment scenarios should be explored to validate the system's performance in practical applications and address any potential challenges or limitations.
 
 ## Acknowledgements
-Special thanks to Kaggle user Daverattan for providing the dental panoramic dataset and Roboflow for facilitating the annotation process. Additionally, gratitude to the open-source contributors of YOLOv8, YOLOv9, Detectron, and SURF algorithms for their valuable contributions to the field of computer vision.
+🙏 Special thanks to Kaggle user Daverattan for providing the dental panoramic dataset and Roboflow for facilitating the annotation process. Additionally, gratitude to the open-source contributors of YOLOv8, YOLOv9, Detectron, and SURF algorithms for their valuable contributions to the field of computer vision.
 
 ## Author
-👨‍💼 Rohith Pamidimarri
+👨‍💼 [Your Name]
 
 ## License
 ⚖️ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
